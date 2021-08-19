@@ -1,2 +1,2 @@
-# Proyecto-de-Angula
+# Proyecto-de-Angular
 Nuevo Proyecto de Angular
